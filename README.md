@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banniere.png" alt="Bannière de Totor" width="100%">
+  <img src="./assets/totor-alpes.jpg" alt="Totor et Totoro dans les Alpes, entre moto, caserne et code." width="100%">
 </p>
 
 ## Moi, c’est Totor 👋
