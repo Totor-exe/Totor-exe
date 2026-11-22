@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="./assets/banniere.png" alt="Victor Nakach — développement web et mobile" width="100%">
+  <img src="./assets/banniere.png" alt="Bannière de Totor" width="100%">
 </p>
 
-« J’ai deux heures devant moi pour rouler à moto. Où est-ce que je vais, et qui vient avec moi ? » C’est cette question qui m’a donné envie de créer **Kurw**.
+## Moi, c’est Totor 👋
 
-Je m’appelle Victor. Après six ans dans l’armée de Terre, dont trois à la Brigade de sapeurs-pompiers de Paris, j’ai repris mes études à la **Coding Factory (ESIEE-IT)**. J’y étudie le développement web et la cybersécurité.
+Je suis motard et pompier volontaire. Après six ans dans l’armée de Terre, dont trois chez les pompiers de Paris, j’ai repris mes études à la Coding Factory pour apprendre le développement web et la cybersécurité.
 
-## Ce que je construis
+**Kurw** est l’appli que je développe en Flutter pour mes sorties à moto. Je connais souvent mon heure de retour avant de savoir où aller. Dans Kurw, je choisis une durée, je récupère une boucle et je peux proposer la sortie à d’autres motards.
 
-| Projet | Ce que j’y développe |
-| --- | --- |
-| **Kurw** · Flutter et Dart | Une application pour motards. Tu choisis le temps que tu as devant toi, l’application te propose une boucle et tu peux inviter d’autres motards à rouler avec toi. |
-| **StationOps** · Flutter et Dart | Une application née de mon expérience en caserne. Je travaille sur le suivi du matériel des véhicules, avec la lecture d’un QR code pour identifier l’engin. |
-| **[Clipper](https://github.com/victornakach-dotcom/clipper-selection)** · Python | Un outil de préparation d’extraits vidéo. Le dépôt montre comment je classe des passages et écarte ceux qui se recouvrent trop. On peut lancer la démo et les tests hors ligne. |
+**StationOps** vient de la caserne. Je travaille sur l’inventaire du matériel embarqué, avec un QR code pour retrouver la fiche du bon véhicule.
 
-## Mon prochain poste
+Si tu veux essayer mon code, commence par **[Clipper](https://github.com/victornakach-dotcom/clipper-selection)**. La démo Python propose cinq passages vidéo pour deux places. Change une note et relance-la pour voir quels extraits passent devant les autres.
 
-Je cherche une **alternance de deux ans en cybersécurité dès la rentrée 2027**, autour de **Cergy, Paris ou Rouen**. Mon rythme sera de deux semaines en cours et deux semaines en entreprise.
+---
+
+Je cherche une **alternance de deux ans en cybersécurité** dès la rentrée 2027, autour de Cergy, Paris ou Rouen.
