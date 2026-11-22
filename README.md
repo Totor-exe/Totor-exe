@@ -2,16 +2,16 @@
   <img src="./assets/totor-alpes.jpg" alt="Totor et Totoro dans les Alpes, entre moto, caserne et code." width="100%">
 </p>
 
-## Moi, c’est Totor 👋
+## Victor, alias Totor
 
-Je suis motard et pompier volontaire. Après six ans dans l’armée de Terre, dont trois chez les pompiers de Paris, j’ai repris mes études à la Coding Factory pour apprendre le développement web et la cybersécurité.
+J’ai servi trois ans au 3ᵉ RPIMa, puis trois ans chez les pompiers de Paris. Aujourd’hui, je suis sapeur-pompier volontaire et j’ai repris mes études à la Coding Factory, en développement web et cybersécurité.
 
-**Kurw** est l’appli que je développe en Flutter pour mes sorties à moto. Je connais souvent mon heure de retour avant de savoir où aller. Dans Kurw, je choisis une durée, je récupère une boucle et je peux proposer la sortie à d’autres motards.
+### Ce que je construis
 
-**StationOps** vient de la caserne. Je travaille sur l’inventaire du matériel embarqué, avec un QR code pour retrouver la fiche du bon véhicule.
+**Obsidian** est le logiciel de test d’intrusion que je développe pour les entreprises. Mon objectif est de les aider à repérer les failles de leurs systèmes et à comprendre ce qu’elles doivent corriger.
 
-Si tu veux essayer mon code, commence par **[Clipper](https://github.com/victornakach-dotcom/clipper-selection)**. La démo Python propose cinq passages vidéo pour deux places. Change une note et relance-la pour voir quels extraits passent devant les autres.
+**Obsidian OS** est mon projet de système d’exploitation. Je travaille sur une première version à démarrer depuis une clé USB.
 
----
+**Kurw** est né d’une question que je me pose au guidon de ma Hornet 750. Quand j’ai deux heures pour rouler, quelle boucle prendre et qui veut venir ? J’ai développé l’appli en Flutter pour choisir une balade selon le temps disponible et proposer à d’autres motards de la rejoindre.
 
-Je cherche une **alternance de deux ans en cybersécurité** dès la rentrée 2027, autour de Cergy, Paris ou Rouen.
+Je cherche une **alternance de deux ans en cybersécurité** à partir de septembre 2027, autour de Cergy, Paris ou Rouen.
